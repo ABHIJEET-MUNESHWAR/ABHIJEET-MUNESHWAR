@@ -91,7 +91,7 @@
     <img alt="Redis" src="https://img.icons8.com/color/48/000000/redis.png">
   </a>
   &emsp;
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
+  <a href="https://aerospike.com/" target="_blank">
     <img alt="Aerospike" src="img/aerospike.png">
   </a>
 </p>
