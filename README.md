@@ -8,9 +8,6 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ABHIJEET-MUNESHWAR&label=Profile%20views&color=0e75b6&style=plastic" alt="ABHIJEET-MUNESHWAR" />
-    <a href = "https://commits.top/india.html" target="_blank">
-        <img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="ABHIJEET-MUNESHWAR" target="_blank"/>
-    </a>
 </p>
 
 
