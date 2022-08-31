@@ -36,11 +36,11 @@
     <a href="https://www.codechef.com/users/ABHIJEEEEET"><img src="https://img.icons8.com/fluency/48/000000/codechef.png" alt="CodeChef"/></a>
 </p>
 
-<p align="center">
+<div align="center">
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AbhijeetMuneshwar?theme=dark&font=Stylish&ext=heatmap)
 
-</p>
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
