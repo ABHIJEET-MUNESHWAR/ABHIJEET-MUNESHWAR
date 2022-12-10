@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/AbhijeetMuneshwr"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="HackerRank"/></a>
-    <a href="https://leetcode.com/AbhijeetMuneshwar/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+    <a href="https://leetcode.com/Abhijeet-Muneshwar/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
     <a href="https://www.codechef.com/users/ABHIJEEEEET"><img src="https://img.icons8.com/fluency/48/000000/codechef.png" alt="CodeChef"/></a>
 </p>
 
