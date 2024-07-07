@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Abhijeet Ashok Muneshwar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Lead+Software+Engineer+at+DeepIntent;Competitive+Programmer;Data+Structure%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Lead+Software+Engineer+at+DeepIntent;Competitive+Programmer;Data+Structure%20|%20Algorithms%20|%20OOP%20;System%20Design;%20System%20Architecture&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -16,8 +16,8 @@
 - :trophy: `3 silver` & `2 bronze` medals in HackerRank.
 - :trophy: Solved 750+ problems on LeetCode
 - :technologist: I'm `Lead Software Engineer` at [DeepIntent](https://www.deepintent.com/)
-- :computer: I am a competitive programmer mainly active at `HackerRank`
-- :nerd_face: Always `learning new things`
+- :computer: I am a competitive programmer mainly active on `LeetCode`
+- :nerd_face: Always learning new things and implementing those to solve problems.
 
 <br>
 
