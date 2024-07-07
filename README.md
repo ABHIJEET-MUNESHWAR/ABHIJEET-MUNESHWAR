@@ -14,6 +14,7 @@
 ## :sassy_man:  About me
 - :student: I've pursued `M. Tech. in Computer Science & Engineering` from NIT, Surathkal.
 - :trophy: `3 silver` & `2 bronze` medals in HackerRank.
+- :trophy: Solved 750+ problems on LeetCode
 - :technologist: I'm `Lead Software Engineer` at [DeepIntent](https://www.deepintent.com/)
 - :computer: I am a competitive programmer mainly active at `HackerRank`
 - :nerd_face: Always `learning new things`
@@ -130,11 +131,11 @@
 
 <p align="center">
   &emsp;
-    <a href="#"><img alt = "HackerRank" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" /></a>
+    <a href="https://www.hackerrank.com/profile/AbhijeetMuneshwr"><img alt = "HackerRank" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" /></a>
   &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" /></a>
+    <a href="https://leetcode.com/u/Abhijeet-Muneshwar/"><img alt = "Leetcode" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" /></a>
   &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.icons8.com/fluency/48/000000/codechef.png" /></a>
+    <a href="https://www.codechef.com/users/ABHIJEEEEET"><img alt = "CodeChef" src="https://img.icons8.com/fluency/48/000000/codechef.png" /></a>
   &emsp;
 </p>
 
