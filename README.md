@@ -14,7 +14,7 @@
 ## :sassy_man:  About me
 - :student: I've pursued `M. Tech. in Computer Science & Engineering` from NIT, Surathkal.
 - :trophy: `3 silver` & `2 bronze` medals in HackerRank.
-- :trophy: Solved 750+ problems on LeetCode
+- :trophy: Solved 1000+ problems on LeetCode
 - :technologist: I'm `Principal Software Engineer` at [Cleo](https://www.cleo.com/)
 - :computer: I am a competitive programmer mainly active on `LeetCode`
 - :nerd_face: Always learning new things and implementing those to solve problems.
