@@ -50,7 +50,7 @@
     <a href="https://wa.me/8618326380"><img src="https://img.icons8.com/color/48/000000/whatsapp--v5.png" alt="Whatsapp"/></a>
     <a href="https://www.linkedin.com/in/abhijeet-muneshwar/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
     <a href="https://www.facebook.com/abhijeet.muneshwar"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook"/></a>
-    <a href="https://www.instagram.com/learn.implement/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/></a>
+    <a href="https://www.instagram.com/abhijeet.muneshwar/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/></a>
     <a href="https://stackoverflow.com/users/1428052/abhijeet-ashok-muneshwar"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="StackOverflow"/></a>
 </p>
 
@@ -65,6 +65,10 @@
   &emsp;
   <a href="https://www.java.com" target="_blank">
     <img alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png">
+  </a>
+  &emsp;
+  <a href="https://go.dev/" target="_blank">
+    <img alt="Golang" src="https://img.icons8.com/?size=48&id=44442&format=png&color=000000">
   </a>
 </p>
 
