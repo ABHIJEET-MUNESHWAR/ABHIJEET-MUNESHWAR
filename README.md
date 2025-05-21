@@ -39,7 +39,7 @@
 
 <div align="center">
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Abhijeet-Muneshwar?theme=dark&font=Quicksand&ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Abhijeet-Muneshwar?theme=dark&font=Quicksand&ext=heatmap&border=0&radius=20)
 
 </div>
 
