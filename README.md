@@ -25,6 +25,8 @@
 <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHIJEET-MUNESHWAR&theme=github-dark&hide_border=false&date_format=j+M%5B+Y%5D&properties=ring" alt="ABHIJEET-MUNESHWAR" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abhijeet-Muneshwar&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <br>
 <br>
 
